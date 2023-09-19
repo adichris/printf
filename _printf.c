@@ -8,6 +8,7 @@
 
 /**
  * count_one_bits - Counts the number of bits set
+ *                  to one in a binary number.
  * @num: The binary number.
  *
  * Return: The number of bits set to one.
