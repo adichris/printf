@@ -1,7 +1,6 @@
 /*
  * File: _printf.c
- * Auth: Aaron Will Djaba
- *       Seiyefa Abornyuie
+ * Auth: Addai Christopher 
  */
 
 #include "main.h"
