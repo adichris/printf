@@ -1,7 +1,6 @@
 /*
  * File: convert_strings.c
- * Auth: Aaron Will Djaba
- *       Seiyefa Abornyuie
+ * Auth: Addai Christopher 
  */
 
 #include "main.h"
