@@ -1,6 +1,6 @@
 /*
  * File: convert_misc.c
- * Auth: Aaron Will Djaba
+ * Auth: Addai Christopher 
  */
 
 #include "main.h"
